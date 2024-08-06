@@ -50,3 +50,6 @@ The Streamlit app (`streanlitui.py`) provides an interactive interface to upload
 ![accuracy](https://github.com/user-attachments/assets/bfe8f131-3560-46ec-ad12-764d950ce917)
 
 ![loss](https://github.com/user-attachments/assets/9e19f2d8-7275-4fdd-ba89-d7f6b081b23c)
+
+## Acknowledgements
+The dataset used in this project is the [Gender Recognition Dataset](https://www.kaggle.com/datasets/divanshu22/gender-recognition-dataset) from Kaggle. Special thanks to Divanshu for providing this dataset.
